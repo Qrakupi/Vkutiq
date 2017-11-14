@@ -1,0 +1,33 @@
+.upperContacts{
+	background-color:rgb(120,120,120);
+	height:25px;
+}
+
+.logo{
+	display:block;
+	font-weight:bold;
+	font-size:36px;
+	padding-top:5px;
+	margin:0px;
+}
+.logo span{
+	color:rgb(255,0,255);
+}
+
+.searchBox{
+	width:80%;
+	height:35px;
+	margin-top:14px;
+	padding:0px 20px;
+}
+
+.userNavContainer{
+	height:60px;
+}
+.authNav{
+	padding:0px 10px;
+	line-height:60px;
+}
+.authNav:hover{
+	color:rgb(255,0,255);
+}
